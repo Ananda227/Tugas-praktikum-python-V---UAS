@@ -34,11 +34,13 @@
 
 **5. Menampilkan bilangan kelipatan dari inputan user**
 
-![Screenshot (533)](https://user-images.githubusercontent.com/93022913/144686161-13e3444f-3722-4195-9c76-bb83e645ba92.png)
+![Screenshot (545)](https://user-images.githubusercontent.com/93022913/144687160-21779d92-76cf-4dc1-a6c4-e38e748dc761.png)
+
 
 **Output : **
 
-![Screenshot (534)](https://user-images.githubusercontent.com/93022913/144686179-b76fd17c-65d8-4a07-8cd2-1dc7eaf5ef6d.png)
+![Screenshot (544)](https://user-images.githubusercontent.com/93022913/144687183-1d443c66-ca84-408e-abaa-6c0d8ff6b5f4.png)
+
 
 **6. Program menghitung faktorial sebuah bilangan(input) menggunakan fungsi**
 
